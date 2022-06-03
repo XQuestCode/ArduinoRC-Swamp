@@ -1,7 +1,7 @@
 # ArduinoRC-Swamp
 Communication between two RC controlled car using 3 HC05 modules
 **Instructions on binding HC05 to the slave's HC05**
-a. Connect slave to the the aruino, upload a new sketch. [here](https://pastebin.com/WQsq0igT)
+\na. Connect slave to the the aruino, upload a new sketch. [here](https://pastebin.com/WQsq0igT)
 b. Connect Rx pin to Rx of arduino and Tx to Tx of arduino.
 c. go to AT mode of HC05 (_hold button for few seconds while powering up, result in slow blinks_)
 d. Open serial monitor, set the baud rate to 38400.
