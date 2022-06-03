@@ -19,6 +19,6 @@ Communication between two RC controlled car using 3 HC05 modules
 https://github.com/XQuestCode/Arduino-Bluetooth-RC-car
 </br>
 <br>
-[Video guide}(https://youtu.be/pGfxNgYMi2c)
+[Video guide](https://youtu.be/pGfxNgYMi2c)
 </br>
 *Slave is same as a simple Bluetooth RC car*
