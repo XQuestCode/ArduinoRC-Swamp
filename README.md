@@ -14,9 +14,10 @@ j Type **AT+BIND = 0019,10,08FED3** (your slave address)
 k. Good to go, power them seperately, and they are ready to be binded
 
 
-Instructions on making Bluetooth controlled RC car
+
+#Instructions on making Bluetooth controlled RC car
 https://github.com/XQuestCode/Arduino-Bluetooth-RC-car
 
-Video guide 
+#Video guide 
 https://youtu.be/pGfxNgYMi2c
 *Slave is same as a simple Bluetooth RC car*
